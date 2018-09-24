@@ -1,3 +1,4 @@
 *.dat
 log*
 #!log01
+!log02
