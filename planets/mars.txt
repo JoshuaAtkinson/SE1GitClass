@@ -4,4 +4,5 @@ The two moons may be a problem for a Wolfman!
 
 It may make him crazu all the time!
 
-Wolfman is dead!
+#Wolfman is dead!
+Wolfman is not DEAD!!
